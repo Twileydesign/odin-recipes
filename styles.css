@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(253, 224, 186);
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: rgb(78, 32, 5);
+}
+
+.steakimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;  
+    width: 50%;
+    height: auto;
+}
+
+.jambalayaimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;  
+    width: 50%;
+    height: auto;
+}
+
+.tacosimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;  
+    width: 50%;
+    height: auto;
+}
+
+
+
+h4 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+li {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: list-item;
+}
